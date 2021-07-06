@@ -1,1 +1,1 @@
-# Online-Application for storing details
+# Online-Application project for storing details
